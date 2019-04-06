@@ -1,0 +1,11 @@
+C:\repos\RNGname\RNGname\bin\Debug\netcoreapp2.2\RNGname.deps.json
+C:\repos\RNGname\RNGname\bin\Debug\netcoreapp2.2\RNGname.runtimeconfig.json
+C:\repos\RNGname\RNGname\bin\Debug\netcoreapp2.2\RNGname.runtimeconfig.dev.json
+C:\repos\RNGname\RNGname\bin\Debug\netcoreapp2.2\RNGname.dll
+C:\repos\RNGname\RNGname\bin\Debug\netcoreapp2.2\RNGname.pdb
+C:\repos\RNGname\RNGname\obj\Debug\netcoreapp2.2\RNGname.csprojAssemblyReference.cache
+C:\repos\RNGname\RNGname\obj\Debug\netcoreapp2.2\RNGname.csproj.CoreCompileInputs.cache
+C:\repos\RNGname\RNGname\obj\Debug\netcoreapp2.2\RNGname.AssemblyInfoInputs.cache
+C:\repos\RNGname\RNGname\obj\Debug\netcoreapp2.2\RNGname.AssemblyInfo.cs
+C:\repos\RNGname\RNGname\obj\Debug\netcoreapp2.2\RNGname.dll
+C:\repos\RNGname\RNGname\obj\Debug\netcoreapp2.2\RNGname.pdb
